@@ -2,15 +2,19 @@
 
 ## **What is this thing?**
 
-Trump Bot is a react app consuming the leap AI API, and deploying a custom model designed to produce images of a certain former president who is variously loved or loathed. 
+Trump Bot is a react app consuming the leap AI API, and deploying a custom model designed to produce images of a certain former president who is variously loved or loathed.
+
+## **WIP**
+
+**Trump Bot is a work in progress. If you landed here and the app does nothing, that's because it's still under construction;** in that case, I invite you to come back later.
 
 ## **How do I use it?**
 
 Provide your prompt, and the model will generate an image matching your criteria.
 
-## **Why?**
+## **Why make this?**
 
-The technology of AI image generation is extraordinarily interesting, and this is a fun way to explore what is possible and also to shine a light on the potential ramifications of thie technology.
+The technology of AI image generation is extraordinarily interesting, and this is a fun way to explore what is possible and also to shine a light on the potential ramifications associated with the use or misuse of this technology.
 
 ## **Responsible use**
 
